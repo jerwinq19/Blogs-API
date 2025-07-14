@@ -38,7 +38,7 @@ npm run dev
 |--------|---------------------|--------------------------|
 | GET    | `/get_blogs`        | Get all blog posts       |
 | GET    | `/get_blog/:id`     | Get a single blog by ID  |
-| GET    | `/get_blog?page=1&limit=10`     | Get a paginated blog post|
+| GET    | `/get_blogs?page=1&limit=10`     | Get a paginated blog post|
 | POST   | `/create_blog`      | Create a new blog post   |
 | DELETE | `/delete_blog/:id`  | Delete a blog by ID      |
 | PUT    | `/update_blog/:id`  | Update a blog by ID      |
