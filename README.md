@@ -64,9 +64,10 @@ npm run dev
 ```
 Blogs-API/
 ├── node_modules/
+├── .env
 ├── .gitignore
-├── package.json
-├── server.js
+├── blog.js
+└── blogData.js
 └── README.md
 ```
 
